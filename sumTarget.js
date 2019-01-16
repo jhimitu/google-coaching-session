@@ -17,5 +17,5 @@ let sumTarget = function(array, target) {
   return false;
 }
 
-console.log(sumTarget([5, 4, 2, 4], 8));
-console.log(sumTarget([5, 1, 2, 4], 8));
+// console.log(sumTarget([5, 4, 2, 4], 8));
+// console.log(sumTarget([5, 1, 2, 4], 8));

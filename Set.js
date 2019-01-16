@@ -27,9 +27,9 @@ class Set {
   }
 }
 
-let set = new Set();
-set.insert(2);
-set.insert(5);
-set.insert(3);
-set.getRandomElement();
-console.log(set.getRandomElement());
+// let set = new Set();
+// set.insert(2);
+// set.insert(5);
+// set.insert(3);
+// set.getRandomElement();
+// console.log(set.getRandomElement());
